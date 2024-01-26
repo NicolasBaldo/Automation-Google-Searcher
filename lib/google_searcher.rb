@@ -21,6 +21,5 @@ def open_google_search(query)
   # Récupérer l'ARGV de l'utilisateur
   search_query = ARGV.join(" ")
   
-  # Appeler la fonction pour ouvrir la recherche Google
-  open_google_search(search_query)
+ open_google_search(search_query)
   

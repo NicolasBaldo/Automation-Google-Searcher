@@ -1,1 +1,2 @@
-gem 'launchy'
+gem 'launchy' 
+gem 'fileutils'
